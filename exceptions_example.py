@@ -13,5 +13,5 @@ except:
     print("this is another type of error")
 else: #this is for no exception
     print("thank you for playing as expected")
-finally: #This eill be executed no matter what, at the very end
+finally: #This will be executed no matter what, at the very end
     print("Thanks for playing the game.")
